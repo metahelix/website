@@ -1,0 +1,13 @@
+.top {
+    height: 70px;
+    width: 100%;
+    background: rgb(228, 81, 81);
+}
+#nav-bar {
+    height: 50px;
+}
+.col {
+    height: 240px;
+    width: 350px;
+    background-color: rgb(223, 178, 200);
+}
